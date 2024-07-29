@@ -1,0 +1,10 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+.vs/
+*.log
+
+# Ignore dependency directories
+node_modules/
